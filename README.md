@@ -1,4 +1,7 @@
-Hi 👋, A Lakshmi Prasanthi
+ Hi, I’m A Lakshmi Prasanthi
+👀 I’m interested in Web Development
+🌱 I’m currently learning Full Stack
+📫 How to reach me - through LinkedIN
 
 
 
